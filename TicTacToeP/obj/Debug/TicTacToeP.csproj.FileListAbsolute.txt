@@ -1,0 +1,7 @@
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\bin\Debug\TicTacToeP.exe.config
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\bin\Debug\TicTacToeP.exe
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\bin\Debug\TicTacToeP.pdb
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\obj\Debug\TicTacToeP.csprojAssemblyReference.cache
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\obj\Debug\TicTacToeP.csproj.CoreCompileInputs.cache
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\obj\Debug\TicTacToeP.exe
+c:\users\sarthak\source\repos\TicTacToeP\TicTacToeP\obj\Debug\TicTacToeP.pdb
